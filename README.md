@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution]()
-- Live Site URL: [Live Demo]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/contact-form-23tc203DVi)
+- Live Site URL: [Live page](https://freedev-group.github.io/Contact-form-wise/)
 
 ## My process
 
@@ -85,7 +85,7 @@ In future projects, I want to explore more advanced accessibility (ARIA) attribu
 ## Author
 
 
-- Frontend Mentor - [@GuillainWise](https://www.frontendmentor.io/profile/GuillainWise)
+- Frontend Mentor - [@GuillainWise](https://www.frontendmentor.io/profile/guillainwise-glitch)
 
 
 ## Acknowledgments
